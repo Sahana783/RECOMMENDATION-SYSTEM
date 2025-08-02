@@ -30,7 +30,7 @@ The modules and methods used are essential for implementing collaborative filter
 
 This recommendation system, although built on a small dataset, demonstrates the core concept of collaborative filtering, which is widely used in real-world applications. Platforms such as Netflix, Amazon, and Spotify employ similar techniques to suggest movies, products, or songs based on user behavior and preferences. This system can be scaled and enhanced by incorporating matrix factorization techniques, integrating more complex similarity measures, or switching to item-based filtering if user-based similarity is not effective.
 
-Overall, this project showcases a simple yet effective approach to building a recommendation engine. It covers data representation, similarity computation, prediction of unknown ratings, and performance evaluation. Such systems are crucial in modern digital environments, where personalization significantly enhances user engagement and satisfaction. The deliverable aligns well with typical academic or industry requirements, presenting both functionality and evaluation in a clear and interpretable manner.
+Overall, this project is done by using chatgpt.com and this showcases a simple yet effective approach to building a recommendation engine. It covers data representation, similarity computation, prediction of unknown ratings, and performance evaluation. Such systems are crucial in modern digital environments, where personalization significantly enhances user engagement and satisfaction. The deliverable aligns well with typical academic or industry requirements, presenting both functionality and evaluation in a clear and interpretable manner.
 
 ##OUTPUT
 
